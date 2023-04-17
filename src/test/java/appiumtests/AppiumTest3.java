@@ -8,7 +8,6 @@ import io.appium.java_client.remote.MobileCapabilityType;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
-import java.net.MalformedURLException;
 import java.net.URL;
 
 public class AppiumTest3 {
